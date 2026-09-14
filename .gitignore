@@ -1,0 +1,4 @@
+/build/
+/flow_minimal_md/
+/sdk/bin/
+*.log

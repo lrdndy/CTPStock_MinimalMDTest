@@ -1,0 +1,2 @@
+sdk/include/*.h text eol=lf
+sdk/lib/*.lib binary
